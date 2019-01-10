@@ -40,7 +40,7 @@ public class ShiroApplicationTests {
 
         System.out.println("这个是保存进数据库的密码:"+encodedPassword);
 
-        System.out.println("这个是保存进数据库的盐:"+salt2);
+        System.out.println("这个是保存进数据库的盐:"+salt21);
     }
 
 
